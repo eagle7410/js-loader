@@ -1,0 +1,20 @@
+{
+  "name": "js-loader",
+  "version": "1.0.0",
+  "description": "Detected ecm6 in browser and include escma6 scripts ",
+  "main": "loader.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle7410/js-loader.git"
+  },
+  "author": "Igor Stcherbina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eagle7410/js-loader/issues"
+  },
+  "homepage": "https://github.com/eagle7410/js-loader#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-jsdoc-to-markdown": "^2.0.0"
+  }
+}
