@@ -4,15 +4,12 @@
 	<meta charset="UTF-8">
 	<title>Test js loader</title>
 	<script src="../loader.js"></script>
-	<!--<script src="./js/ecma6/test.js"></script>-->
 	<script type="text/javascript">
 		JsLoader({
 			type : 'shift',
 			main : './js',
 			shift: 'ecma6',
-			scripts : [
-				'test.js'
-			]
+			scripts : 'test.js'
 		});
 	</script>
 </head>
